@@ -1,2 +1,2 @@
 # Machine-Learning-com-regras-de-associacao
-To empolgada não vou negar :)
+Projeto ficticio onde aplico regressão de associação em uma padaria
